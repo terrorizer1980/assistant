@@ -2,3 +2,4 @@ pyrogram>=1.0.0b0
 tgcrypto
 aiohttp
 num2words
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
